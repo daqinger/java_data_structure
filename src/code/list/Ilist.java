@@ -1,5 +1,8 @@
 package code.list;
-
+/*
+*
+*
+* */
 public interface Ilist {
     public void clear();//置空
     public boolean isEmpty();//判空
